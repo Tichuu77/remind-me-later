@@ -20,17 +20,8 @@ This is a simple backend API built with **Node.js**, **Express**, and **MongoDB*
 
 ---
 
-## 📁 Folder Structure
-reminder/
-├── models/
-│ └── Reminder.js # Mongoose schema
-├── routes/
-│ └── reminder.js # POST /api/reminders
-├── .env # Environment variables
-├── .gitignore # Ignored files
-├── server.js # App entry point
-├── package.json
-└── README.md
+##📁 Folder Structure
+<pre> reminder/ ├── models/ │ └── Reminder.js # Mongoose schema ├── routes/ │ └── reminder.js # Reminder route ├── .env # Environment variables ├── .gitignore # Git ignored files ├── server.js # App entry point ├── package.json └── README.md </pre>
 
 
 ---
